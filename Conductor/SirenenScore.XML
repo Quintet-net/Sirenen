@@ -1,0 +1,1155 @@
+<?xml version="1.0"?>
+<jmslscoredoc>
+<!-- Saved document from JMSL's programmable music notation editor. Java Music Specification Language by Nick Didkovsky & Phil Burk, available from: http://www.algomusic.com -->
+<score NAME="JMSLMaxScore-31" SUBTITLE="null" COMPOSER="" COPYRIGHT="" WIDTH="980" HEIGHT="599" STAFFS="5" NUMTRACKSPERSTAFF="2" InstrumentNamesVisible="false" TempoVisible="false" StaffNumbersVisible="false" MeasureNumbersVisible="false" SectionBracketsVisible="false" TimeSignaturesVisible="false" KeySignaturesVisible="true" ClefsVisible="false" ScoreTitleVisible="false" CourtesyClefsVisible="false" MeasureNumberOffset="1" LeftMargin="20.0" RightMargin="20.0" TopMargin="15.0" BottomMargin="15.0" TopMarginOfFirstPage="60.0" DrawAllMeasureNumbers="false" TextFontScaler="1.5" ScoreSubtitleFontScaler="2.0" ScoreTitleFontScaler="4.0" TimesigFontScaler="2.5" MeasureNumberFontScaler="1.5" TextFontName="SansSerif" ScoreSubtitleFontName="Serif" ScoreTitleFontName="Serif" TimesigFontName="Serif" MeasureNumberFontName="SansSerif" FirstSystemIndent="0.0" >
+<ScoreAnnotation CLASSNAME="com.softsynth.jmsl.score.ScoreAnnotation" Annotation="108.3o8JtjDSKMcMPAqTnZEJFD6bxLuTKFHWiMTgbRMkzSsHXBXHP4qLmTAxRo.KMwhJI0hTHj7yKUkfnszKJ+RK.nbF.DlXRIUjm4UbIE4Wh4BV8.g0BQY5ZHcylLhtYSFS2rISn81DC.vXWjpB" >
+</ScoreAnnotation>
+<orchestra CLASSNAME="com.softsynth.jmsl.score.Orchestra" >
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" InsIndex="0" EditEnabled="true" Name="MaxScoreIns-0" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
+<dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
+<dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
+<dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
+</jmslscoreinstrument>
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" InsIndex="1" EditEnabled="true" Name="MaxScoreIns-1" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
+<dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
+<dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
+<dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
+</jmslscoreinstrument>
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" InsIndex="2" EditEnabled="true" Name="MaxScoreIns-2" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
+<dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
+<dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
+<dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
+</jmslscoreinstrument>
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" InsIndex="3" EditEnabled="true" Name="MaxScoreIns-3" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
+<dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
+<dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
+<dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
+</jmslscoreinstrument>
+<jmslscoreinstrument CLASSNAME="com.algomusic.max.MaxScoreInstrument" InsIndex="4" EditEnabled="true" Name="MaxScoreIns-4" MixerClassName="com.softsynth.jmsl.NullMixer" Transposition="0.0" >
+<dim index="4" defaultvalue="0.0" lowlimit="0.0" highlimit="3.0" name="EventFlag" />
+<dim index="5" defaultvalue="-1.0" lowlimit="-1.0" highlimit="127.0" name="originalPitch" />
+<dim index="6" defaultvalue="-1.0" lowlimit="-1.0" highlimit="10000.0" name="index" />
+</jmslscoreinstrument>
+</orchestra>
+<mixerpanelsettings >
+<panamppair FADERINDEX="0" PAN="0.5" AMP="0.5" />
+<panamppair FADERINDEX="1" PAN="0.5" AMP="0.5" />
+<panamppair FADERINDEX="2" PAN="0.5" AMP="0.5" />
+<panamppair FADERINDEX="3" PAN="0.5" AMP="0.5" />
+<panamppair FADERINDEX="4" PAN="0.5" AMP="0.5" />
+</mixerpanelsettings>
+<staffspacing INDEX="0" ABOVE="68.0" BELOW="72.0" />
+<staffspacing INDEX="1" ABOVE="120.0" BELOW="67.0" />
+<staffspacing INDEX="2" ABOVE="120.0" BELOW="72.0" />
+<staffspacing INDEX="3" ABOVE="120.0" BELOW="72.0" />
+<staffspacing INDEX="4" ABOVE="120.0" BELOW="68.0" />
+<scoresection NAME="A" START="0" END="3" />
+<scoresection NAME="B" START="0" END="0" />
+<scoresection NAME="C" START="0" END="0" />
+<scoresection NAME="D" START="0" END="0" />
+<scoresection NAME="E" START="0" END="0" />
+<scoresection NAME="F" START="0" END="0" />
+<scoresection NAME="G" START="0" END="0" />
+<scoresection NAME="H" START="0" END="0" />
+<scoresection NAME="I" START="0" END="0" />
+<scoresection NAME="J" START="0" END="0" />
+<scoresection NAME="K" START="0" END="0" />
+<scoresection NAME="L" START="0" END="0" />
+<scoresection NAME="M" START="0" END="0" />
+<scoresection NAME="N" START="0" END="0" />
+<scoresection NAME="O" START="0" END="0" />
+<scoresection NAME="P" START="0" END="0" />
+<scoresection NAME="Q" START="0" END="0" />
+<scoresection NAME="R" START="0" END="0" />
+<scoresection NAME="S" START="0" END="0" />
+<scoresection NAME="T" START="0" END="0" />
+<scoresection NAME="U" START="0" END="0" />
+<scoresection NAME="V" START="0" END="0" />
+<scoresection NAME="W" START="0" END="0" />
+<scoresection NAME="X" START="0" END="0" />
+<scoresection NAME="Y" START="0" END="0" />
+<scoresection NAME="Z" START="0" END="0" />
+<measure WIDTH="1880" WIDTHSETBYHAND="true" TIMESIG="186 4" TIMESIGSETBYHAND="false" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="NONE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" >
+<staff INDEX="0" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="frgb 0 0 0 255" Xoffset="-4.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="font Arial 12" Xoffset="-4.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="textface regular" Xoffset="-4.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="writeto 0.0000 0.0000 0' 00U+0022" Xoffset="-4.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="frgb 0 0 0 255" Xoffset="1836.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="font Arial 12" Xoffset="1836.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="textface regular" Xoffset="1836.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-0" Message="writeto 0.0000 0.0000 3' 06U+0022" Xoffset="1836.0" Yoffset="48.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="1" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="frgb 255 0 0 255" Xoffset="4.0" Yoffset="-42.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="font Arial 31" Xoffset="4.0" Yoffset="-42.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="textface regular" Xoffset="4.0" Yoffset="-42.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="writeto 0.0000 0.0000 ______________________________________________________" Xoffset="4.0" Yoffset="-42.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="frgb 0 0 255 255" Xoffset="286.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="font Arial 31" Xoffset="286.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="textface regular" Xoffset="286.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="writeto 0.0000 0.0000 ______________________________________________" Xoffset="286.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="frgb 0 0 0 255" Xoffset="16.0" Yoffset="-48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="font Arial 16" Xoffset="16.0" Yoffset="-48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="textface regular" Xoffset="16.0" Yoffset="-48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="writeto 0.0000 0.0000 Preset 4 - area around Node 7 - static/chordlike" Xoffset="16.0" Yoffset="-48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="group Quicktext[4]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="frgb 0 0 0 255" Xoffset="282.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="font Arial 16" Xoffset="282.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="textface regular" Xoffset="282.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-1" Message="writeto 0.0000 0.0000 Preset 4 - area around Node 7 - canonic imitation of Player 1" Xoffset="282.0" Yoffset="180.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="2" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="2" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-2" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-2" Message="frgb 0 0 0 255" Xoffset="492.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-2" Message="font Arial 16" Xoffset="492.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-2" Message="textface regular" Xoffset="492.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-2" Message="writeto 0.0000 0.0000 Preset 4 - area around Node 7 - canonic imitation of Player 2" Xoffset="492.0" Yoffset="180.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="3" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="3" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="frgb 255 127 0 255" Xoffset="496.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="font Arial 31" Xoffset="496.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="textface regular" Xoffset="496.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="writeto 0.0000 0.0000 ________________________________________" Xoffset="496.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="frgb 127 0 127 255" Xoffset="952.0" Yoffset="420.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="font Arial 31" Xoffset="952.0" Yoffset="420.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="textface regular" Xoffset="952.0" Yoffset="420.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="writeto 0.0000 0.0000 ___________________________" Xoffset="952.0" Yoffset="420.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="frgb 0 0 0 255" Xoffset="696.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="font Arial 16" Xoffset="696.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="textface regular" Xoffset="696.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-3" Message="writeto 0.0000 0.0000 Preset 4 - area around Node 7 - canonic imitation of Player 3" Xoffset="696.0" Yoffset="178.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="4" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="4" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="frgb 0 255 0 255" Xoffset="702.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="font Arial 31" Xoffset="702.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="textface regular" Xoffset="702.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="writeto 0.0000 0.0000 __________________________________" Xoffset="702.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="frgb 0 0 0 255" Xoffset="948.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="font Arial 16" Xoffset="948.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="textface regular" Xoffset="948.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-0-4" Message="writeto 0.0000 0.0000 Preset 4 - area around Node 7 - canonic imitation of Player 4" Xoffset="948.0" Yoffset="178.0" >
+</staffUserBean>
+</staff>
+</measure>
+<measure WIDTH="1880" WIDTHSETBYHAND="true" TIMESIG="114 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="NONE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" >
+<staff INDEX="0" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="frgb 0 0 0 255" Xoffset="0.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="font Arial 12" Xoffset="0.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="textface regular" Xoffset="0.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="writeto 0.0000 0.0000 3' 06U+0022" Xoffset="0.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="frgb 0 0 0 255" Xoffset="1834.0" Yoffset="58.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="font Arial 12" Xoffset="1834.0" Yoffset="58.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="textface regular" Xoffset="1834.0" Yoffset="58.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-0" Message="writeto 0.0000 0.0000 5' 00U+0022" Xoffset="1834.0" Yoffset="58.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="1" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="frgb 255 0 0 255" Xoffset="382.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="font Arial 31" Xoffset="382.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="textface regular" Xoffset="382.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="writeto 0.0000 0.0000 ___________" Xoffset="382.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="frgb 0 0 255 255" Xoffset="1126.0" Yoffset="196.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="font Arial 31" Xoffset="1126.0" Yoffset="196.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="textface regular" Xoffset="1126.0" Yoffset="196.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="writeto 0.0000 0.0000 ___________" Xoffset="1126.0" Yoffset="196.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="frgb 0 0 0 255" Xoffset="460.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="font Arial 14" Xoffset="460.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="textface regular" Xoffset="460.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="writeto 0.0000 0.0000 SOLO - ad libitum" Xoffset="460.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="frgb 0 0 0 255" Xoffset="1212.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="font Arial 14" Xoffset="1212.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="textface regular" Xoffset="1212.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-1" Message="writeto 0.0000 0.0000 SOLO - ad libitum" Xoffset="1212.0" Yoffset="188.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="2" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="2" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="frgb 255 127 0 255" Xoffset="1504.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="font Arial 31" Xoffset="1504.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="textface regular" Xoffset="1504.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="writeto 0.0000 0.0000 ___________" Xoffset="1504.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="frgb 0 0 0 255" Xoffset="1588.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="font Arial 14" Xoffset="1588.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="textface regular" Xoffset="1588.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-2" Message="writeto 0.0000 0.0000 SOLO - ad libitum" Xoffset="1588.0" Yoffset="184.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="3" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="3" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="frgb 0 255 0 255" Xoffset="746.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="font Arial 31" Xoffset="746.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="textface regular" Xoffset="746.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="writeto 0.0000 0.0000 ___________" Xoffset="746.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="frgb 0 0 0 255" Xoffset="830.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="font Arial 14" Xoffset="830.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="textface regular" Xoffset="830.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-3" Message="writeto 0.0000 0.0000 SOLO - ad libitum" Xoffset="830.0" Yoffset="186.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="4" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="4" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="frgb 127 0 127 255" Xoffset="8.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="font Arial 31" Xoffset="8.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="textface regular" Xoffset="8.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="writeto 0.0000 0.0000 ___________" Xoffset="8.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="frgb 0 0 0 255" Xoffset="82.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="font Arial 14" Xoffset="82.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="textface regular" Xoffset="82.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-1-4" Message="writeto 0.0000 0.0000 SOLO - ad libitum" Xoffset="82.0" Yoffset="184.0" >
+</staffUserBean>
+</staff>
+</measure>
+<measure WIDTH="1880" WIDTHSETBYHAND="true" TIMESIG="108 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="NONE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" >
+<staff INDEX="0" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="frgb 0 0 0 255" Xoffset="2.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="font Arial 12" Xoffset="2.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="textface regular" Xoffset="2.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="writeto 0.0000 0.0000 5' 00''" Xoffset="2.0" Yoffset="48.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="frgb 0 0 0 255" Xoffset="1828.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="font Arial 12" Xoffset="1828.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="textface regular" Xoffset="1828.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="writeto 0.0000 0.0000 6' 48''" Xoffset="1828.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="frgb 0 0 0 255" Xoffset="12.0" Yoffset="132.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="font Arial 16" Xoffset="12.0" Yoffset="132.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="textface regular" Xoffset="12.0" Yoffset="132.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="writeto 0.0000 0.0000 Preset 3 - area:" Xoffset="12.0" Yoffset="132.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="frgb 0 0 0 255" Xoffset="32.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="font Arial 16" Xoffset="32.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="textface regular" Xoffset="32.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-0" Message="writeto 0.0000 0.0000 rhythmical / clicking" Xoffset="32.0" Yoffset="184.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="1" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 0 0 255 255" Xoffset="416.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 31" Xoffset="416.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="416.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 __________________" Xoffset="416.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 0 0 255 255" Xoffset="1414.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 31" Xoffset="1414.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="1414.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 ___" Xoffset="1414.0" Yoffset="190.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 255 0 0 255" Xoffset="362.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 31" Xoffset="362.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="362.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 __" Xoffset="362.0" Yoffset="-44.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 255 0 0 255" Xoffset="1180.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 31" Xoffset="1180.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="1180.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 ___" Xoffset="1180.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[4]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 255 0 0 255" Xoffset="1562.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 31" Xoffset="1562.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="1562.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 __" Xoffset="1562.0" Yoffset="-46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[5]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 0 0 0 255" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 16" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 Preset 3 - area:" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group Quicktext[6]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="frgb 0 0 0 255" Xoffset="28.0" Yoffset="242.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="font Arial 16" Xoffset="28.0" Yoffset="242.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="textface regular" Xoffset="28.0" Yoffset="242.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="writeto 0.0000 0.0000 rhythmical / clicking" Xoffset="28.0" Yoffset="242.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group untitled[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="pensize 2 2" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="framerect -35.0000 -61.0000 18.0000 -10.0000 0 0 0 255" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 8.0000 -54.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgtKf3/Q//7AQoyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 8.0000 -58.0000 /RMB/kD+k//8AQHz//sBAigp/AMoKfwEKCn8Bigp/AcoKfwIKCn8CSgp/AoyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 7.0000 -48.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwJMij+Ef8=" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 6.0000 -43.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AgoKfwJKCn8Cigp/AsoKfwMMij+Ef8=" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 4.0000 -36.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8CSgp/AooKfwLKCn8DSgp/A4oKfwPMij+Ef8=" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 2.0000 -31.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8ESgp/BIyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 0.0000 -23.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AsoKfwMKCn8DSgp/A4oKfwPKCn8EDIo/hH/" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -3.0000 -26.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AkoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn9EnH9/0P/+wETKCn8FCgp/BUyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -13.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BCgp/AYoKfwIKCn8Cigp/A0oKfwOKCn8ECgp/BIoKfwTKCn8FCgp/BUoKfwXKCn8GCgp/BkoKfwaKCn8Gygp/BwyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -12.0000 -17.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BQoKfwWKCn8Fygp/BkoKfwaKCn8Gygp/B0oKfweKCn8Hygp/CAoKfwhM1XxHzMEASldARwz4QEaMij+Ef8=" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 15.0000 -19.0000 /RMB/kD+k//8Af9A+skB/Sgp/PsoKfz5KCn89ygp/PQoKfzzKCn88igp/PEoKfzwKCn87ygp/O4oKfztKCn87Cgp/OsyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -20.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AoyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -13.0000 -16.0000 /RMB/kD+kv/9AXr8Af9D//sBAigp/AMoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BMoKfwUKCn8FSgp/BYoKfwYKCn5GShsAygo/hH/" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 8.0000 -39.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIMij+Ef8=" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 12.0000 -49.0000 /RMB/kD+k//7AQEoKfwCKCn8AzIo/hH/" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 11.0000 -50.0000 /RMB/kD+k//7AQEoKfwDKCn8BDIo/hH/" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 6.0000 -32.0000 /RMB/kD+k//7AQEoKfwEKCn8BSgp/AkoKfwKKCn8Cygp/AwoKfwNKCn8DjIo/hH/" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 7.0000 -95.0000 /RMB/kD+kf/9KSj+Ef8=" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 4.0000 -26.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AkyKP4R/w==" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="paintrect 25.0000 -61.0000 18.0000 -10.0000 255 255 255 255" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="pensize 1 1" Xoffset="306.0" Yoffset="-26.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="group untitled[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="pensize 2 2" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="framerect -35.0000 -61.0000 18.0000 -10.0000 0 0 0 255" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 8.0000 -54.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgtKf3/Q//7AQoyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 8.0000 -58.0000 /RMB/kD+k//8AQHz//sBAigp/AMoKfwEKCn8Bigp/AcoKfwIKCn8CSgp/AoyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 7.0000 -48.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwJMij+Ef8=" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 6.0000 -43.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AgoKfwJKCn8Cigp/AsoKfwMMij+Ef8=" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 4.0000 -36.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8CSgp/AooKfwLKCn8DSgp/A4oKfwPMij+Ef8=" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 2.0000 -31.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8ESgp/BIyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 0.0000 -23.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AsoKfwMKCn8DSgp/A4oKfwPKCn8EDIo/hH/" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -3.0000 -26.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AkoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn9EnH9/0P/+wETKCn8FCgp/BUyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -13.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BCgp/AYoKfwIKCn8Cigp/A0oKfwOKCn8ECgp/BIoKfwTKCn8FCgp/BUoKfwXKCn8GCgp/BkoKfwaKCn8Gygp/BwyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -12.0000 -17.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BQoKfwWKCn8Fygp/BkoKfwaKCn8Gygp/B0oKfweKCn8Hygp/CAoKfwhM1XxHzMEASldARwz4QEaMij+Ef8=" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 15.0000 -19.0000 /RMB/kD+k//8Af9A+skB/Sgp/PsoKfz5KCn89ygp/PQoKfzzKCn88igp/PEoKfzwKCn87ygp/O4oKfztKCn87Cgp/OsyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -20.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AoyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline -13.0000 -16.0000 /RMB/kD+kv/9AXr8Af9D//sBAigp/AMoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BMoKfwUKCn8FSgp/BYoKfwYKCn5GShsAygo/hH/" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 8.0000 -39.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIMij+Ef8=" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 12.0000 -49.0000 /RMB/kD+k//7AQEoKfwCKCn8AzIo/hH/" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 11.0000 -50.0000 /RMB/kD+k//7AQEoKfwDKCn8BDIo/hH/" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 6.0000 -32.0000 /RMB/kD+k//7AQEoKfwEKCn8BSgp/AkoKfwKKCn8Cygp/AwoKfwNKCn8DjIo/hH/" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 7.0000 -95.0000 /RMB/kD+kf/9KSj+Ef8=" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="polyline 4.0000 -26.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AkyKP4R/w==" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="paintrect 25.0000 -61.0000 18.0000 -10.0000 255 255 255 255" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-1" Message="pensize 1 1" Xoffset="312.0" Yoffset="218.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="2" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="2" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="frgb 0 0 0 255" Xoffset="20.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="font Arial 16" Xoffset="20.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="textface regular" Xoffset="20.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="writeto 0.0000 0.0000 Preset 3 - area:" Xoffset="20.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="frgb 0 0 0 255" Xoffset="22.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="font Arial 16" Xoffset="22.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="textface regular" Xoffset="22.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="writeto 0.0000 0.0000 rhythmical / clicking" Xoffset="22.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="group untitled[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="pensize 2 2" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="framerect -35.0000 -61.0000 18.0000 -10.0000 0 0 0 255" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 8.0000 -54.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgtKf3/Q//7AQoyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 8.0000 -58.0000 /RMB/kD+k//8AQHz//sBAigp/AMoKfwEKCn8Bigp/AcoKfwIKCn8CSgp/AoyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 7.0000 -48.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwJMij+Ef8=" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 6.0000 -43.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AgoKfwJKCn8Cigp/AsoKfwMMij+Ef8=" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 4.0000 -36.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8CSgp/AooKfwLKCn8DSgp/A4oKfwPMij+Ef8=" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 2.0000 -31.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8ESgp/BIyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 0.0000 -23.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AsoKfwMKCn8DSgp/A4oKfwPKCn8EDIo/hH/" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline -3.0000 -26.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AkoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn9EnH9/0P/+wETKCn8FCgp/BUyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline -13.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BCgp/AYoKfwIKCn8Cigp/A0oKfwOKCn8ECgp/BIoKfwTKCn8FCgp/BUoKfwXKCn8GCgp/BkoKfwaKCn8Gygp/BwyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline -12.0000 -17.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BQoKfwWKCn8Fygp/BkoKfwaKCn8Gygp/B0oKfweKCn8Hygp/CAoKfwhM1XxHzMEASldARwz4QEaMij+Ef8=" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 15.0000 -19.0000 /RMB/kD+k//8Af9A+skB/Sgp/PsoKfz5KCn89ygp/PQoKfzzKCn88igp/PEoKfzwKCn87ygp/O4oKfztKCn87Cgp/OsyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline -20.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AoyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline -13.0000 -16.0000 /RMB/kD+kv/9AXr8Af9D//sBAigp/AMoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BMoKfwUKCn8FSgp/BYoKfwYKCn5GShsAygo/hH/" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 8.0000 -39.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIMij+Ef8=" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 12.0000 -49.0000 /RMB/kD+k//7AQEoKfwCKCn8AzIo/hH/" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 11.0000 -50.0000 /RMB/kD+k//7AQEoKfwDKCn8BDIo/hH/" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 6.0000 -32.0000 /RMB/kD+k//7AQEoKfwEKCn8BSgp/AkoKfwKKCn8Cygp/AwoKfwNKCn8DjIo/hH/" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 7.0000 -95.0000 /RMB/kD+kf/9KSj+Ef8=" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="polyline 4.0000 -26.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AkyKP4R/w==" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="paintrect 25.0000 -61.0000 18.0000 -10.0000 255 255 255 255" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-2" Message="pensize 1 1" Xoffset="318.0" Yoffset="212.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="3" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="3" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="frgb 255 127 0 255" Xoffset="6.0" Yoffset="-52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="font Arial 31" Xoffset="6.0" Yoffset="-52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="textface regular" Xoffset="6.0" Yoffset="-52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="writeto 0.0000 0.0000 ________________" Xoffset="6.0" Yoffset="-52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="frgb 255 127 0 255" Xoffset="1300.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="font Arial 31" Xoffset="1300.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="textface regular" Xoffset="1300.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="writeto 0.0000 0.0000 ____" Xoffset="1300.0" Yoffset="-54.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="frgb 0 255 0 255" Xoffset="796.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="font Arial 31" Xoffset="796.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="textface regular" Xoffset="796.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="writeto 0.0000 0.0000 __________" Xoffset="796.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="frgb 0 255 0 255" Xoffset="1464.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="font Arial 31" Xoffset="1464.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="textface regular" Xoffset="1464.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="writeto 0.0000 0.0000 ____________" Xoffset="1464.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group Quicktext[4]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="frgb 0 0 0 255" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="font Arial 16" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="textface regular" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="writeto 0.0000 0.0000 Preset 3 - area:" Xoffset="14.0" Yoffset="188.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group Quicktext[5]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="frgb 0 0 0 255" Xoffset="24.0" Yoffset="236.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="font Arial 16" Xoffset="24.0" Yoffset="236.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="textface regular" Xoffset="24.0" Yoffset="236.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="writeto 0.0000 0.0000 rhythmical / clicking" Xoffset="24.0" Yoffset="236.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="group untitled[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="pensize 2 2" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="framerect -35.0000 -61.0000 18.0000 -10.0000 0 0 0 255" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 8.0000 -54.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgtKf3/Q//7AQoyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 8.0000 -58.0000 /RMB/kD+k//8AQHz//sBAigp/AMoKfwEKCn8Bigp/AcoKfwIKCn8CSgp/AoyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 7.0000 -48.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwJMij+Ef8=" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 6.0000 -43.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AgoKfwJKCn8Cigp/AsoKfwMMij+Ef8=" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 4.0000 -36.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8CSgp/AooKfwLKCn8DSgp/A4oKfwPMij+Ef8=" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 2.0000 -31.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8ESgp/BIyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 0.0000 -23.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AsoKfwMKCn8DSgp/A4oKfwPKCn8EDIo/hH/" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline -3.0000 -26.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AkoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn9EnH9/0P/+wETKCn8FCgp/BUyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline -13.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BCgp/AYoKfwIKCn8Cigp/A0oKfwOKCn8ECgp/BIoKfwTKCn8FCgp/BUoKfwXKCn8GCgp/BkoKfwaKCn8Gygp/BwyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline -12.0000 -17.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BQoKfwWKCn8Fygp/BkoKfwaKCn8Gygp/B0oKfweKCn8Hygp/CAoKfwhM1XxHzMEASldARwz4QEaMij+Ef8=" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 15.0000 -19.0000 /RMB/kD+k//8Af9A+skB/Sgp/PsoKfz5KCn89ygp/PQoKfzzKCn88igp/PEoKfzwKCn87ygp/O4oKfztKCn87Cgp/OsyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline -20.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AoyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline -13.0000 -16.0000 /RMB/kD+kv/9AXr8Af9D//sBAigp/AMoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BMoKfwUKCn8FSgp/BYoKfwYKCn5GShsAygo/hH/" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 8.0000 -39.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIMij+Ef8=" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 12.0000 -49.0000 /RMB/kD+k//7AQEoKfwCKCn8AzIo/hH/" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 11.0000 -50.0000 /RMB/kD+k//7AQEoKfwDKCn8BDIo/hH/" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 6.0000 -32.0000 /RMB/kD+k//7AQEoKfwEKCn8BSgp/AkoKfwKKCn8Cygp/AwoKfwNKCn8DjIo/hH/" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 7.0000 -95.0000 /RMB/kD+kf/9KSj+Ef8=" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="polyline 4.0000 -26.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AkyKP4R/w==" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="paintrect 25.0000 -61.0000 18.0000 -10.0000 255 255 255 255" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-3" Message="pensize 1 1" Xoffset="318.0" Yoffset="214.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="4" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="4" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="frgb 127 0 127 255" Xoffset="6.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="font Arial 31" Xoffset="6.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="textface regular" Xoffset="6.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="writeto 0.0000 0.0000 _____" Xoffset="6.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="frgb 127 0 127 255" Xoffset="550.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="font Arial 31" Xoffset="550.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="textface regular" Xoffset="550.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="writeto 0.0000 0.0000 ___________" Xoffset="550.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="frgb 127 0 127 255" Xoffset="1132.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="font Arial 31" Xoffset="1132.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="textface regular" Xoffset="1132.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="writeto 0.0000 0.0000 ___" Xoffset="1132.0" Yoffset="194.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="frgb 127 0 127 255" Xoffset="1572.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="font Arial 31" Xoffset="1572.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="textface regular" Xoffset="1572.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="writeto 0.0000 0.0000 _________" Xoffset="1572.0" Yoffset="192.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group Quicktext[4]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="frgb 0 0 0 255" Xoffset="10.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="font Arial 16" Xoffset="10.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="textface regular" Xoffset="10.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="writeto 0.0000 0.0000 Preset 3 - area:" Xoffset="10.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group Quicktext[5]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="frgb 0 0 0 255" Xoffset="38.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="font Arial 16" Xoffset="38.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="textface regular" Xoffset="38.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="writeto 0.0000 0.0000 rhythmical / clicking" Xoffset="38.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="group untitled[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="pensize 2 2" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="framerect -35.0000 -61.0000 18.0000 -10.0000 0 0 0 255" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 8.0000 -54.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgtKf3/Q//7AQoyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 8.0000 -58.0000 /RMB/kD+k//8AQHz//sBAigp/AMoKfwEKCn8Bigp/AcoKfwIKCn8CSgp/AoyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 7.0000 -48.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwJMij+Ef8=" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 6.0000 -43.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AgoKfwJKCn8Cigp/AsoKfwMMij+Ef8=" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 4.0000 -36.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8CSgp/AooKfwLKCn8DSgp/A4oKfwPMij+Ef8=" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 2.0000 -31.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8ESgp/BIyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 0.0000 -23.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AsoKfwMKCn8DSgp/A4oKfwPKCn8EDIo/hH/" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline -3.0000 -26.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bygp/AkoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn9EnH9/0P/+wETKCn8FCgp/BUyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline -13.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BCgp/AYoKfwIKCn8Cigp/A0oKfwOKCn8ECgp/BIoKfwTKCn8FCgp/BUoKfwXKCn8GCgp/BkoKfwaKCn8Gygp/BwyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline -12.0000 -17.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AUoKfwGKCn8Bygp/AgoKfwKKCn8Cygp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BQoKfwWKCn8Fygp/BkoKfwaKCn8Gygp/B0oKfweKCn8Hygp/CAoKfwhM1XxHzMEASldARwz4QEaMij+Ef8=" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 15.0000 -19.0000 /RMB/kD+k//8Af9A+skB/Sgp/PsoKfz5KCn89ygp/PQoKfzzKCn88igp/PEoKfzwKCn87ygp/O4oKfztKCn87Cgp/OsyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline -20.0000 -14.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AoyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline -13.0000 -16.0000 /RMB/kD+kv/9AXr8Af9D//sBAigp/AMoKfwFKCn8Bigp/AcoKfwJKCn8Cigp/AwoKfwNKCn8Digp/A8oKfwQKCn8Eigp/BMoKfwUKCn8FSgp/BYoKfwYKCn5GShsAygo/hH/" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 8.0000 -39.0000 /RMB/kD+k//7AQEoKfwCKCn8Aygp/AQoKfwFKCn8Bigp/AcoKfwIMij+Ef8=" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 12.0000 -49.0000 /RMB/kD+k//7AQEoKfwCKCn8AzIo/hH/" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 11.0000 -50.0000 /RMB/kD+k//7AQEoKfwDKCn8BDIo/hH/" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 6.0000 -32.0000 /RMB/kD+k//7AQEoKfwEKCn8BSgp/AkoKfwKKCn8Cygp/AwoKfwNKCn8DjIo/hH/" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 7.0000 -95.0000 /RMB/kD+kf/9KSj+Ef8=" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="polyline 4.0000 -26.0000 /RMB/kD+k//7AQEoKfwDKCn8BSgp/AYoKfwHKCn8CCgp/AkyKP4R/w==" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="paintrect 25.0000 -61.0000 18.0000 -10.0000 255 255 255 255" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="pensize 1 1" Xoffset="316.0" Yoffset="210.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-2-4" Message="" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+</staff>
+</measure>
+<measure WIDTH="1880" WIDTHSETBYHAND="true" TIMESIG="72 4" TIMESIGSETBYHAND="true" TEMPO="60.0" TEMPOSETBYHAND="false" REPEATSTART="false" REPEATEND="false" NUMREPEATS="1" BARLINE="NONE" MEASURETEXT="" MEASURETEXTX="48" MEASURETEXTY="48" >
+<staff INDEX="0" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="0" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="frgb 0 0 0 255" Xoffset="0.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="font Arial 12" Xoffset="0.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="textface regular" Xoffset="0.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="writeto 0.0000 0.0000 6' 48''" Xoffset="0.0" Yoffset="46.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="frgb 0 0 0 255" Xoffset="1832.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="font Arial 12" Xoffset="1832.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="textface regular" Xoffset="1832.0" Yoffset="52.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-0" Message="writeto 0.0000 0.0000 8' 00''" Xoffset="1832.0" Yoffset="52.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="1" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="1" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="frgb 0 0 0 255" Xoffset="8.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="font Arial 16" Xoffset="8.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="textface regular" Xoffset="8.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="writeto 0.0000 0.0000 chaotic search for a simple pattern" Xoffset="8.0" Yoffset="-60.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="frgb 0 0 0 255" Xoffset="8.0" Yoffset="182.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="font Arial 16" Xoffset="8.0" Yoffset="182.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="textface regular" Xoffset="8.0" Yoffset="182.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="writeto 0.0000 0.0000 chaotic search for a simple pattern" Xoffset="8.0" Yoffset="182.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="frgb 0 0 0 255" Xoffset="1342.0" Yoffset="-62.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="font Arial 16" Xoffset="1342.0" Yoffset="-62.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="textface regular" Xoffset="1342.0" Yoffset="-62.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="writeto 0.0000 0.0000 repeat your chosen pattern till the end" Xoffset="1342.0" Yoffset="-62.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="frgb 0 0 0 255" Xoffset="1060.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="font Arial 16" Xoffset="1060.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="textface regular" Xoffset="1060.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="writeto 0.0000 0.0000 repeat your chosen pattern till the end" Xoffset="1060.0" Yoffset="186.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="group Quicktext[4]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="frgb 255 0 0 255" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="font Arial 31" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="textface regular" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="writeto 0.0000 0.0000 WWWWWWWWWWWWWWWWWWWWWWW" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="group Quicktext[5]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="frgb 255 0 0 255" Xoffset="1360.0" Yoffset="-14.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="font Arial 31" Xoffset="1360.0" Yoffset="-14.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="textface regular" Xoffset="1360.0" Yoffset="-14.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-1" Message="writeto 0.0000 0.0000 .............................." Xoffset="1360.0" Yoffset="-14.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="2" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="2" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="frgb 0 0 0 255" Xoffset="6.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="font Arial 16" Xoffset="6.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="textface regular" Xoffset="6.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="writeto 0.0000 0.0000 chaotic search for a simple pattern" Xoffset="6.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="frgb 0 0 0 255" Xoffset="692.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="font Arial 16" Xoffset="692.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="textface regular" Xoffset="692.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="writeto 0.0000 0.0000 repeat your chosen pattern till the end" Xoffset="692.0" Yoffset="180.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="frgb 0 0 255 255" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="font Arial 31" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="textface regular" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="writeto 0.0000 0.0000 WWWWWWWWWWWWWWWWWW" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="frgb 0 0 255 255" Xoffset="1066.0" Yoffset="-14.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="font Arial 31" Xoffset="1066.0" Yoffset="-14.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="textface regular" Xoffset="1066.0" Yoffset="-14.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-2" Message="writeto 0.0000 0.0000 ..............................................." Xoffset="1066.0" Yoffset="-14.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="3" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="3" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="frgb 0 0 0 255" Xoffset="8.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="font Arial 16" Xoffset="8.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="textface regular" Xoffset="8.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="writeto 0.0000 0.0000 chaotic search for a simple pattern" Xoffset="8.0" Yoffset="184.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="frgb 0 0 0 255" Xoffset="934.0" Yoffset="176.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="font Arial 16" Xoffset="934.0" Yoffset="176.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="textface regular" Xoffset="934.0" Yoffset="176.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="writeto 0.0000 0.0000 repeat your chosen pattern till the end" Xoffset="934.0" Yoffset="176.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="frgb 255 127 0 255" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="font Arial 31" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="textface regular" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="writeto 0.0000 0.0000 WWWWWWWWWWWW" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="frgb 255 127 0 255" Xoffset="710.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="font Arial 31" Xoffset="710.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="textface regular" Xoffset="710.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-3" Message="writeto 0.0000 0.0000 ...................................................................." Xoffset="710.0" Yoffset="-16.0" >
+</staffUserBean>
+</staff>
+<staff INDEX="4" CLEF="4" CLEFSETBYHAND="false" INSTRUMENTINDEX="4" INSINDEXSETBYHAND="false" KEYSIGTYPE="1" KEYSIGNUMACC="0" KEYSIGSETBYHAND="false" EXTENDEDLINESABOVE="-2" EXTENDEDLINESBELOW="-3" >
+<track INDEX="0" >
+</track>
+<track INDEX="1" >
+</track>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="group Quicktext[0]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="frgb 0 0 0 255" Xoffset="10.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="font Arial 16" Xoffset="10.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="textface regular" Xoffset="10.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="writeto 0.0000 0.0000 chaotic search for a simple pattern" Xoffset="10.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="group Quicktext[1]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="frgb 0 0 0 255" Xoffset="1224.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="font Arial 16" Xoffset="1224.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="textface regular" Xoffset="1224.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="writeto 0.0000 0.0000 repeat your chosen pattern till the end" Xoffset="1224.0" Yoffset="178.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="group Quicktext[2]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="frgb 127 0 127 255" Xoffset="0.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="font Arial 31" Xoffset="0.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="textface regular" Xoffset="0.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="writeto 0.0000 0.0000 WWWWWWWWWWWWWWWWWWWWW" Xoffset="0.0" Yoffset="238.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="group Quicktext[3]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="frgb 0 255 0 255" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="font Arial 31" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="textface regular" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="writeto 0.0000 0.0000 WWWWWWWWWWWWWWWW" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="group Quicktext[4]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="frgb 0 255 0 255" Xoffset="934.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="font Arial 31" Xoffset="934.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="textface regular" Xoffset="934.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="writeto 0.0000 0.0000 ......................................................." Xoffset="934.0" Yoffset="-16.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="group Quicktext[5]" Xoffset="0.0" Yoffset="0.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="frgb 127 0 127 255" Xoffset="1230.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="font Arial 31" Xoffset="1230.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="textface regular" Xoffset="1230.0" Yoffset="218.0" >
+</staffUserBean>
+<staffUserBean CLASSNAME="com.softsynth.jmsl.score.util.RenderedMessageBean" Name="RenderedMessageBean_staff-3-4" Message="writeto 0.0000 0.0000 ......................................" Xoffset="1230.0" Yoffset="218.0" >
+</staffUserBean>
+</staff>
+</measure>
+<scoreUserBean CLASSNAME="com.algomusic.max.MaxScoreRenderedMessageListener" >
+</scoreUserBean>
+</score>
+</jmslscoredoc>
