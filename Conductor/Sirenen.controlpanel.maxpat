@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 294.0, 233.0, 952.0, 526.0 ],
+		"rect" : [ 985.0, -684.0, 952.0, 526.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -188,7 +188,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 546.0, 96.0, 70.0, 22.0 ],
+					"patching_rect" : [ 608.5, 101.0, 70.0, 22.0 ],
 					"text" : "dumpScore"
 				}
 
@@ -201,7 +201,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 546.0, 125.0, 239.0, 22.0 ],
+					"patching_rect" : [ 608.5, 130.0, 239.0, 22.0 ],
 					"text" : "pattrforward parent::score::send2MaxScore"
 				}
 
@@ -224,7 +224,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 546.0, 63.0, 77.0, 24.0 ],
+					"patching_rect" : [ 608.5, 68.0, 77.0, 24.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 199.0, 57.0, 77.0, 24.0 ],
 					"text" : "send score",
@@ -456,8 +456,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 160.0, 362.0, 218.0, 42.0 ],
-					"text" : "/client Preferences::Inputs::Sirenen::enable 1, /client Preferences::Inputs::Network::enable 1, /client Preferences::Inputs::Network::local 2"
+					"patching_rect" : [ 160.0, 114.0, 420.0, 42.0 ],
+					"text" : "/client Preferences::Inputs::Sirenen::enable 1, /client Preferences::Inputs::Network::enable 1, /client Preferences::Inputs::Network::local 2, /client sender::Network::control-panel::portnum 8000, /client sender::Network::control-panel::speedlim 100"
 				}
 
 			}
@@ -718,6 +718,12 @@
  ],
 		"styles" : [ 			{
 				"name" : "black on white",
+				"number" : 				{
+					"fontsize" : [ 12.0 ],
+					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+					"fontname" : [ "Arial" ]
+				}
+,
 				"umenu" : 				{
 					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 					"bgfillcolor" : 					{
@@ -732,20 +738,14 @@
 
 				}
 ,
-				"number" : 				{
-					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-					"fontsize" : [ 12.0 ],
-					"fontname" : [ "Arial" ]
-				}
-,
 				"parentstyle" : "",
 				"multi" : 0
 			}
 , 			{
 				"name" : "caption text",
 				"default" : 				{
-					"fontface" : [ 2 ],
-					"fontsize" : [ 11.0 ]
+					"fontsize" : [ 11.0 ],
+					"fontface" : [ 2 ]
 				}
 ,
 				"parentstyle" : "",
@@ -754,9 +754,9 @@
 , 			{
 				"name" : "section dividers",
 				"default" : 				{
-					"fontface" : [ 3 ],
 					"fontsize" : [ 15.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"fontface" : [ 3 ]
 				}
 ,
 				"parentstyle" : "",
@@ -775,9 +775,9 @@
 , 			{
 				"name" : "titles",
 				"default" : 				{
-					"fontface" : [ 1 ],
 					"fontsize" : [ 20.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"fontface" : [ 1 ]
 				}
 ,
 				"parentstyle" : "",
